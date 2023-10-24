@@ -1,7 +1,7 @@
 import { ShoppingCart } from '@phosphor-icons/react'
 
-import { Quantity } from './Quantity'
-import { Button } from './Button'
+import { Quantity } from './quantity'
+import { Button } from './button'
 
 export function CoffeeItem(props: any) {
   return (
